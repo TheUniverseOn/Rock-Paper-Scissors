@@ -25,7 +25,7 @@ const game = () => {
         this.style.animation = "";
       });
     });
-    //Computer Options
+    //Computer  Options
     const computerOptions = ["rock", "paper", "scissors"];
 
     options.forEach(option => {
